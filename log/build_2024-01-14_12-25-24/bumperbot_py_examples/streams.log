@@ -1,0 +1,35 @@
+[2.297s] Invoking command in '/home/sarthak/bumperbot_ws/src/bumperbot_py_examples': PYTHONPATH=/home/sarthak/bumperbot_ws/build/bumperbot_py_examples/prefix_override:/home/sarthak/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bumperbot_py_examples build --build-base /home/sarthak/bumperbot_ws/build/bumperbot_py_examples/build install --record /home/sarthak/bumperbot_ws/build/bumperbot_py_examples/install.log --single-version-externally-managed
+[2.522s] running egg_info
+[2.523s] creating ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info
+[2.523s] writing ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/PKG-INFO
+[2.523s] writing dependency_links to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/dependency_links.txt
+[2.523s] writing entry points to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/entry_points.txt
+[2.524s] writing requirements to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/requires.txt
+[2.524s] writing top-level names to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/top_level.txt
+[2.524s] writing manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[2.524s] reading manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[2.525s] writing manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[2.525s] running build
+[2.525s] running build_py
+[2.526s] creating /home/sarthak/bumperbot_ws/build/bumperbot_py_examples/build
+[2.526s] creating /home/sarthak/bumperbot_ws/build/bumperbot_py_examples/build/lib
+[2.526s] creating /home/sarthak/bumperbot_ws/build/bumperbot_py_examples/build/lib/bumperbot_py_examples
+[2.526s] copying bumperbot_py_examples/__init__.py -> /home/sarthak/bumperbot_ws/build/bumperbot_py_examples/build/lib/bumperbot_py_examples
+[2.526s] running install
+[2.535s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.535s]   warnings.warn(
+[2.536s] running install_lib
+[2.537s] creating /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples
+[2.537s] copying /home/sarthak/bumperbot_ws/build/bumperbot_py_examples/build/lib/bumperbot_py_examples/__init__.py -> /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples
+[2.537s] byte-compiling /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__init__.py to __init__.cpython-310.pyc
+[2.538s] running install_data
+[2.538s] creating /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/share/ament_index
+[2.538s] creating /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/share/ament_index/resource_index
+[2.538s] creating /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/share/ament_index/resource_index/packages
+[2.538s] copying resource/bumperbot_py_examples -> /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/share/ament_index/resource_index/packages
+[2.539s] copying package.xml -> /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/share/bumperbot_py_examples
+[2.539s] running install_egg_info
+[2.539s] Copying ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info to /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples-0.0.0-py3.10.egg-info
+[2.540s] running install_scripts
+[2.557s] writing list of installed files to '/home/sarthak/bumperbot_ws/build/bumperbot_py_examples/install.log'
+[2.584s] Invoked command in '/home/sarthak/bumperbot_ws/src/bumperbot_py_examples' returned '0': PYTHONPATH=/home/sarthak/bumperbot_ws/build/bumperbot_py_examples/prefix_override:/home/sarthak/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bumperbot_py_examples build --build-base /home/sarthak/bumperbot_ws/build/bumperbot_py_examples/build install --record /home/sarthak/bumperbot_ws/build/bumperbot_py_examples/install.log --single-version-externally-managed
