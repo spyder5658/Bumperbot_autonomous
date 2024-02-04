@@ -1,0 +1,45 @@
+[0.109s] Invoking command in '/home/sarthak/bumperbot_ws/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sarthak/bumperbot_ws/src/bumperbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sarthak/bumperbot_ws/install/bumperbot_description
+[0.374s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.635s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.743s] -- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.956s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.957s] -- Added test 'lint_cmake' to check CMake code style
+[0.968s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.989s] -- Added test 'xmllint' to check XML markup files
+[1.015s] -- Configuring done
+[1.073s] -- Generating done
+[1.075s] -- Build files have been written to: /home/sarthak/bumperbot_ws/build/bumperbot_description
+[1.080s] Invoked command in '/home/sarthak/bumperbot_ws/build/bumperbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sarthak/bumperbot_ws/src/bumperbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sarthak/bumperbot_ws/install/bumperbot_description
+[1.083s] Invoking command in '/home/sarthak/bumperbot_ws/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sarthak/bumperbot_ws/build/bumperbot_description -- -j12 -l12
+[1.158s] Invoked command in '/home/sarthak/bumperbot_ws/build/bumperbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sarthak/bumperbot_ws/build/bumperbot_description -- -j12 -l12
+[1.291s] Invoking command in '/home/sarthak/bumperbot_ws/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sarthak/bumperbot_ws/build/bumperbot_description
+[1.308s] -- Install configuration: ""
+[1.309s] -- Execute custom install script
+[1.309s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/base_link.STL
+[1.324s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_front_link.STL
+[1.343s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_rear_link.STL
+[1.362s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/imu_link.STL
+[1.381s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_left_link.STL
+[1.399s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_right_link.STL
+[1.411s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot.urdf.xacro
+[1.421s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot_gazebo.xacro
+[1.431s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot_ros2_control.xacro
+[1.444s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/launch/display.launch.py
+[1.456s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/launch/gazebo.launch.py
+[1.470s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/rviz/display.rviz
+[1.483s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/package_run_dependencies/bumperbot_description
+[1.496s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/parent_prefix_path/bumperbot_description
+[1.508s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/ament_prefix_path.sh
+[1.519s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/ament_prefix_path.dsv
+[1.531s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/path.sh
+[1.543s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/path.dsv
+[1.555s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.bash
+[1.566s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.sh
+[1.579s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.zsh
+[1.589s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.dsv
+[1.601s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/package.dsv
+[1.615s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/packages/bumperbot_description
+[1.630s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/cmake/bumperbot_descriptionConfig.cmake
+[1.639s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/cmake/bumperbot_descriptionConfig-version.cmake
+[1.649s] -- Symlinking: /home/sarthak/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/package.xml
+[1.664s] Invoked command in '/home/sarthak/bumperbot_ws/build/bumperbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sarthak/bumperbot_ws/build/bumperbot_description

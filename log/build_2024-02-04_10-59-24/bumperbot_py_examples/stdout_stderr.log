@@ -1,0 +1,6 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+Removing /home/sarthak/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot-py-examples.egg-link (link to .)
