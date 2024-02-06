@@ -54,7 +54,7 @@ endif()
 add_library(bumperbot_msgs::bumperbot_msgs__rosidl_typesupport_cpp SHARED IMPORTED)
 
 set_target_properties(bumperbot_msgs::bumperbot_msgs__rosidl_typesupport_cpp PROPERTIES
-  INTERFACE_LINK_LIBRARIES "bumperbot_msgs::bumperbot_msgs__rosidl_generator_cpp"
+  INTERFACE_LINK_LIBRARIES "bumperbot_msgs::bumperbot_msgs__rosidl_generator_cpp;geometry_msgs::geometry_msgs__rosidl_typesupport_cpp;std_msgs::std_msgs__rosidl_typesupport_cpp"
 )
 
 if(CMAKE_VERSION VERSION_LESS 2.8.12)

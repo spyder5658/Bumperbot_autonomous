@@ -15,6 +15,10 @@ set(CMAKE_MULTIPLE_OUTPUT_PAIRS
   "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/detail/add_two_ints__builder.hpp" "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/add_two_ints.hpp"
   "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/detail/add_two_ints__struct.hpp" "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/add_two_ints.hpp"
   "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/detail/add_two_ints__traits.hpp" "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/add_two_ints.hpp"
+  "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/detail/get_transform__builder.hpp" "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/add_two_ints.hpp"
+  "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/detail/get_transform__struct.hpp" "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/add_two_ints.hpp"
+  "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/detail/get_transform__traits.hpp" "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/add_two_ints.hpp"
+  "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/get_transform.hpp" "/home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_cpp/bumperbot_msgs/srv/add_two_ints.hpp"
   )
 
 
