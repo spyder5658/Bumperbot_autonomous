@@ -67,7 +67,7 @@ include CMakeFiles/ament_cmake_python_build_bumperbot_controller_egg.dir/compile
 include CMakeFiles/ament_cmake_python_build_bumperbot_controller_egg.dir/progress.make
 
 CMakeFiles/ament_cmake_python_build_bumperbot_controller_egg:
-	cd /home/sarthak/bumperbot_ws/build/bumperbot_controller/ament_cmake_python/bumperbot_controller && /usr/bin/python3.10 setup.py egg_info
+	cd /home/sarthak/bumperbot_ws/build/bumperbot_controller/ament_cmake_python/bumperbot_controller && /usr/bin/python3 setup.py egg_info
 
 ament_cmake_python_build_bumperbot_controller_egg: CMakeFiles/ament_cmake_python_build_bumperbot_controller_egg
 ament_cmake_python_build_bumperbot_controller_egg: CMakeFiles/ament_cmake_python_build_bumperbot_controller_egg.dir/build.make

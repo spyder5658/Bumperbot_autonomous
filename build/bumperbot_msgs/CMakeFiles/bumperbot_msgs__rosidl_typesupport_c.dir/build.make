@@ -104,6 +104,7 @@ rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros
 rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/TwistWithCovarianceStamped.idl
 rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Vector3.idl
 rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Vector3Stamped.idl
+rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/VelocityStamped.idl
 rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Wrench.idl
 rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/WrenchStamped.idl
 rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros/humble/share/std_msgs/msg/Bool.idl
@@ -137,7 +138,7 @@ rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros
 rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros/humble/share/std_msgs/msg/UInt8.idl
 rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp: /opt/ros/humble/share/std_msgs/msg/UInt8MultiArray.idl
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/sarthak/bumperbot_ws/build/bumperbot_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating C type support dispatch for ROS interfaces"
-	/usr/bin/python3.10 /opt/ros/humble/lib/rosidl_typesupport_c/rosidl_typesupport_c --generator-arguments-file /home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_typesupport_c__arguments.json --typesupports rosidl_typesupport_fastrtps_c rosidl_typesupport_introspection_c
+	/usr/bin/python3 /opt/ros/humble/lib/rosidl_typesupport_c/rosidl_typesupport_c --generator-arguments-file /home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_typesupport_c__arguments.json --typesupports rosidl_typesupport_fastrtps_c rosidl_typesupport_introspection_c
 
 rosidl_typesupport_c/bumperbot_msgs/srv/get_transform__type_support.cpp: rosidl_typesupport_c/bumperbot_msgs/srv/add_two_ints__type_support.cpp
 	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_typesupport_c/bumperbot_msgs/srv/get_transform__type_support.cpp

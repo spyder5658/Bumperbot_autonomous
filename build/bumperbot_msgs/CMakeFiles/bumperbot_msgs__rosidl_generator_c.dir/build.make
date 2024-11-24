@@ -111,6 +111,7 @@ rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/geom
 rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/geometry_msgs/msg/TwistWithCovarianceStamped.idl
 rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/geometry_msgs/msg/Vector3.idl
 rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/geometry_msgs/msg/Vector3Stamped.idl
+rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/geometry_msgs/msg/VelocityStamped.idl
 rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/geometry_msgs/msg/Wrench.idl
 rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/geometry_msgs/msg/WrenchStamped.idl
 rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/std_msgs/msg/Bool.idl
@@ -144,7 +145,7 @@ rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/std_
 rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/std_msgs/msg/UInt8.idl
 rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h: /opt/ros/humble/share/std_msgs/msg/UInt8MultiArray.idl
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/sarthak/bumperbot_ws/build/bumperbot_msgs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating C code for ROS interfaces"
-	/usr/bin/python3.10 /opt/ros/humble/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c --generator-arguments-file /home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_c__arguments.json
+	/usr/bin/python3 /opt/ros/humble/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c --generator-arguments-file /home/sarthak/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_c__arguments.json
 
 rosidl_generator_c/bumperbot_msgs/srv/detail/add_two_ints__functions.h: rosidl_generator_c/bumperbot_msgs/srv/add_two_ints.h
 	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_c/bumperbot_msgs/srv/detail/add_two_ints__functions.h

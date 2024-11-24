@@ -99,6 +99,7 @@ CMakeFiles/bumperbot_msgs: /opt/ros/humble/share/geometry_msgs/msg/TwistWithCova
 CMakeFiles/bumperbot_msgs: /opt/ros/humble/share/geometry_msgs/msg/TwistWithCovarianceStamped.idl
 CMakeFiles/bumperbot_msgs: /opt/ros/humble/share/geometry_msgs/msg/Vector3.idl
 CMakeFiles/bumperbot_msgs: /opt/ros/humble/share/geometry_msgs/msg/Vector3Stamped.idl
+CMakeFiles/bumperbot_msgs: /opt/ros/humble/share/geometry_msgs/msg/VelocityStamped.idl
 CMakeFiles/bumperbot_msgs: /opt/ros/humble/share/geometry_msgs/msg/Wrench.idl
 CMakeFiles/bumperbot_msgs: /opt/ros/humble/share/geometry_msgs/msg/WrenchStamped.idl
 
